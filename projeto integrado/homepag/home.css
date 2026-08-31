@@ -3,7 +3,9 @@
     --verde-color:#2C5745;
     --bege-color:#EBE3A7;
     --laranja-color:#EB7D00;
+    --cinza-color:#6b7772;
 }
+
 header{
 background-color: var(--verde-color);
 }
@@ -11,13 +13,16 @@ background-color: var(--verde-color);
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 #campo_busca{
     flex-direction: row;
     align-content: center;
+    margin: 1%;
 }
 #nav{
     text-align: center;
+    background-color: var(--cinza-color);
 }
 #bnt_nav{
     border-radius: 50px;
@@ -28,3 +33,5 @@ background-color: var(--verde-color);
     width: 15%;
     height: 15%;
 }
+
+
