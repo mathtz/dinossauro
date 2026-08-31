@@ -1,0 +1,30 @@
+:root{
+    --marrom-color:#2E2910;
+    --verde-color:#2C5745;
+    --bege-color:#EBE3A7;
+    --laranja-color:#EB7D00;
+}
+header{
+background-color: var(--verde-color);
+}
+#div_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#campo_busca{
+    flex-direction: row;
+    align-content: center;
+}
+#nav{
+    text-align: center;
+}
+#bnt_nav{
+    border-radius: 50px;
+    padding: 0.5%;
+    margin: 1%;
+}
+#logo{
+    width: 15%;
+    height: 15%;
+}
