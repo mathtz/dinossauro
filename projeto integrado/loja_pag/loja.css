@@ -95,7 +95,7 @@ header {
   transition: transform 0.3s ease;
 }
 .card{
-  flex: 0 0 calc((100%-40px)/3);
+  flex: 0 0 calc((100%-40px) / 3);
   width: 300px;
   height: 350px;
   flex-shrink: 0;
@@ -109,6 +109,7 @@ header {
 
 #prev, #next{
   position: absolute;
+  background: transparent;
   top: 50%;
   transform: translateY(-50%);
   z-index: 10;
