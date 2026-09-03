@@ -81,53 +81,6 @@ header {
 
 /* FIM HEADER */
 
-/* INICIO ARTICLE */
-
-#carrosel{
-  width: 100%;
-  position: relative;
-  overflow: hidden;
-}
-#container_cards{
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  transition: transform 0.3s ease;
-}
-.card{
-  flex: 0 0 calc((100%-40px)/3);
-  width: 300px;
-  height: 350px;
-  flex-shrink: 0;
-  min-height: 250px;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 20px;
-  background: white;
-  box-sizing: border-box;
-}
-
-#prev, #next{
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 10;
-  width: 40px;
-  height: 40px;
-  border: none;
-  border-radius: 50%;
-  cursor: pointer;
-
-  font-size:20px;
-}
-#prev{
-  left: 10%;
-}
-#next{
-  right: 10%;
-}
-
-/* FIM ARTICLE */
 
 /* INICIO FOOTER */
 
