@@ -12,7 +12,8 @@
   </head>
   <body>
 
-<?php include 'header.php'; ?>
+  <!-- para o header coloque essa linha de codigo abaixo (ou copie do header.php sem o php) -->
+<?php include __DIR__ . '/PHP/header.php'; ?>
 
 
     <article id="article">

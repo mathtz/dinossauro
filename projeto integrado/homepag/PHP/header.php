@@ -21,7 +21,7 @@
               <input type="search" name="" id="" placeholder="Pesquisar..." />
               <input type="button" value="Lorem" />
             </div>
-            <input type="button" id="bnt_login" data-bs-toggle="modal" data-bs-target="#meuModalBootstrap" value="Lorem" />
+            
             <?php if($estaLogado): ?>
     
               <div class="user-bagde">
