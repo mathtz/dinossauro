@@ -1,3 +1,67 @@
+document.addEventListener("DOMContentLoaded", () => {
+  const painel = document.getElementById("painelLateral");
+  const listaProdutos = document.getElementById("listaProdutos");
+
+  // Corrigido: bnt -> btn (para bater com os escutadores abaixo)
+  const btnConcluir = document.getElementById("btnConcluirCompra");
+  const btnFechar = document.getElementById("btnFecharPainel");
+
+  let produtosSelecionados = [];
+
+  // 1. ABRIR E ADICIONAR PRODUTOS
+  document.querySelectorAll(".btn-abrir-painel").forEach((botao) => {
+    botao.addEventListener("click", (event) => {
+      const card = event.target.closest(".card");
+      const nome = card.getAttribute("data-nome");
+
+      if (nome) {
+        produtosSelecionados.push({ nome: nome });
+        renderizarLista();
+        painel.classList.add("aberto");
+      }
+    });
+  });
+
+  // 2. DESENHAR A LISTA NO PAINEL
+  function renderizarLista() {
+    listaProdutos.innerHTML = "";
+
+    produtosSelecionados.forEach((produto) => {
+      const li = document.createElement("li");
+      li.className = "item-carrinho";
+      li.innerHTML = `<span>${produto.nome}</span>`;
+      listaProdutos.appendChild(li);
+    });
+  }
+
+  // 3. FUNÇÃO ÚNICA PARA FECHAR E ZERAR A LISTA
+  function fecharELimpar() {
+    painel.classList.remove("aberto");
+    setTimeout(() => {
+      produtosSelecionados = [];
+      listaProdutos.innerHTML = "";
+    }, 300);
+  }
+
+  // 4. BOTÃO CONCLUIR COMPRA
+  if (btnConcluir) {
+    btnConcluir.addEventListener("click", () => {
+      if (produtosSelecionados.length > 0) {
+        alert("Sua compra será processada!");
+        fecharELimpar(); // Corrigido: chama a função fecharELimpar
+      } else {
+        alert("Selecione pelo menos um produto!");
+      }
+    });
+  }
+
+  // 5. BOTÃO FECHAR E LIMPAR
+  if (btnFechar) {
+    btnFechar.addEventListener("click", () => {
+      fecharELimpar(); // Corrigido: chama a função fecharELimpar
+    });
+  }
+});
 const carrosseis = document.querySelectorAll(".carrosel");
 
 carrosseis.forEach(function (carrosel) {

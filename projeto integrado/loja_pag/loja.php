@@ -20,11 +20,11 @@
 
 
     <div id="container_article">
-      <article>
-        <h1>lorem</h1>
+      <article style="margin:2%;">
+        <h1 style="margin:2%;" >lorem</h1>
         <div class="carrosel">
           <div class="container_cards">
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -32,12 +32,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -45,12 +45,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -58,12 +58,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -71,12 +71,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -84,12 +84,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -97,12 +97,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -110,12 +110,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -123,12 +123,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -136,12 +136,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -149,12 +149,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -162,12 +162,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -175,12 +175,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -188,12 +188,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -201,12 +201,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -214,9 +214,9 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
           </div>
@@ -230,7 +230,7 @@
         </div>
         <div class="carrosel">
           <div class="container_cards">
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -238,12 +238,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -251,12 +251,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -264,12 +264,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -277,12 +277,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -290,12 +290,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -303,12 +303,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -316,12 +316,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -329,12 +329,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -342,12 +342,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -355,12 +355,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -368,12 +368,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -381,12 +381,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -394,12 +394,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -407,12 +407,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -420,215 +420,9 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
-              </div>
-            </div>
-          </div>
-
-          <button class="prev">
-            <h1><i class="bi bi-arrow-left-circle-fill"></i></h1>
-          </button>
-          <button class="next">
-            <h1><i class="bi bi-arrow-right-circle-fill"></i></h1>
-          </button>
-        </div>
-        <div class="carrosel">
-          <div class="container_cards">
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
-              </div>
-            </div>
-            <div class="card" style="width: 18rem">
-              <img
-                src="../homepag/imagens/teste.png"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
-                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
           </div>
@@ -642,7 +436,7 @@
         </div>
         <div class="carrosel">
           <div class="container_cards">
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -650,12 +444,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -663,12 +457,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -676,12 +470,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -689,12 +483,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -702,12 +496,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -715,12 +509,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -728,12 +522,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -741,12 +535,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -754,12 +548,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -767,12 +561,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -780,12 +574,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -793,12 +587,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -806,12 +600,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -819,12 +613,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -832,9 +626,9 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
           </div>
@@ -846,9 +640,9 @@
             <h1><i class="bi bi-arrow-right-circle-fill"></i></h1>
           </button>
         </div>
-        <div class="carrosel">
+       <div class="carrosel">
           <div class="container_cards">
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -856,12 +650,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -869,12 +663,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -882,12 +676,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -895,12 +689,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -908,12 +702,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -921,12 +715,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -934,12 +728,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -947,12 +741,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -960,12 +754,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -973,12 +767,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -986,12 +780,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -999,12 +793,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -1012,12 +806,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -1025,12 +819,12 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
-            <div class="card" style="width: 18rem">
+            <div class="card" data-nome="lorem" style="width: 18rem">
               <img
                 src="../homepag/imagens/teste.png"
                 class="card-img-top"
@@ -1038,9 +832,9 @@
               />
               <div class="card-body">
                 <p class="card-text">
-                  Some quick example text to build on the card title and make up
-                  the bulk of the card’s content.
+                  Some quick example 
                 </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
               </div>
             </div>
           </div>
@@ -1052,8 +846,231 @@
             <h1><i class="bi bi-arrow-right-circle-fill"></i></h1>
           </button>
         </div>
+<div class="carrosel">
+          <div class="container_cards">
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+            <div class="card" data-nome="lorem" style="width: 18rem">
+              <img
+                src="../homepag/imagens/teste.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="card-text">
+                  Some quick example 
+                </p>
+                <button class="btn-abrir-painel" type="button">lorem</button>
+              </div>
+            </div>
+          </div>
+
+          <button class="prev">
+            <h1><i class="bi bi-arrow-left-circle-fill"></i></h1>
+          </button>
+          <button class="next">
+            <h1><i class="bi bi-arrow-right-circle-fill"></i></h1>
+          </button>
+        </div>
+</div>
       </article>
     </div>
+
+    <!-- Painel Lateral (Off-canvas) -->
+<aside class="painel-lateral" id="painelLateral">
+  
+  <div class="conteudo-painel">
+    <h2>Itens Selecionados:</h2>
+    <!-- Esta lista vai receber os produtos acumulados -->
+    <ul id="listaProdutos" class="lista-produtos"></ul>
+  </div>
+
+  <div class="rodape-painel">
+    <button id="btnConcluirCompra" class="btn-concluir">Concluir Compra</button>
+    <button id="btnFecharPainel" class="btn-fechar">Fechar e Limpar</button>
+  </div>
+
+</aside>
 
     <footer id="footer">
       <div id="footer_container">

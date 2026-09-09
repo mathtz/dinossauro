@@ -13,7 +13,7 @@
   <body>
 
   <!-- para o header coloque essa linha de codigo abaixo (ou copie do header.php sem o php) -->
-<?php include __DIR__ . '/PHP/header.php'; ?>
+<?php include __DIR__ . '/../homepag/PHP/header.php'; ?>
 
 
     <article id="article">
